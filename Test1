@@ -1,0 +1,24 @@
+1.worked on Troubleshooting deployment issues for PD application.
+2.Deleted nationalDashboard_okta service in Prod regions as part of PCF sunset.
+3. Stopped product outer edge service in MO as part of PCF sunset
+4. Stopped SCBP-Inner-Edge and Scbp gateway in all the lower environments and MO environment as part of PCF sunset.
+5. Worked on updating Dll's for 11 PD Components.
+6. Working on Removing hardcoded credentials for PD Components
+7. Worked on troubleshooting issues for newly created ocf services for Bipublishing app
+8. 2 LSO requests
+9. Working on POC to Migrate the credentials from config file to UCD
+10. Working on creating and troubleshooting issues for newly created Ocf Service in MO region for Bipublishing App
+11.Stopped SCBP- Inner edge and SCBP gateway in all the the regions and deleted in Lower regions, as part of PCF sunset.
+12. Stopped product-outer-edge in PROD region as part of PCF sunset.
+13. worked on troubleshooting deployment issues for WEBPD application
+14.Worked on updating UCD properties for PD application
+15.working on Removing dynatrace alerts, UCD component and application deletion and environment deletion in All the regions as part of sunset.
+16. Worked on server issue in ST region for PD application
+17. 1 LSO request
+18. Worked on POC to Migrate the credentials from config file to UCD.
+19.Worked on troubleshooting issues for the newly created OCF service in the MO region for the Bipublishing App.
+20.Stopped and deleted SCBP-Inner edge and SCBP gateway in all the regions and working on Component deletion.
+21. Stopped product ISO and DNBmodel service in PROD region and deleted in Lower regions as part of sunset.
+22. Stopped and deleted trvpas- routing and bi-file scan-svc services in all the regions and working on environment deletion.
+23. Worked on dynatrace removal and UCD components cleanup for SCBP applications.
+24.Worked on troubleshooting the issues for Policy decisions Components.
