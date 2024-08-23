@@ -1,0 +1,6 @@
+1.Resolved server agents issue for PD in ST region.
+2.Brought back 3 servers in prod 2 servers in ST and 1 server in DEV to operational status from retired state .
+3.Installed UCD agents on 2 servers for PD in ST region.
+4.1 LSO request
+ Updated few(6) EKS health check url's in kibana .(DEV/TEST/MO).
+5.Deleted BIWS forms processor in PROD
